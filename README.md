@@ -1,2 +1,2 @@
 # AI-Project-Smart-Resume-Analyzer-Job-Matcher 
-this is 
+this is an AI that helps
